@@ -74,10 +74,10 @@ Ian Mutai,
 
 
 # Contact information
-* Daniel Musili: [Email](mailto:)
-* Joan Mwangi: [Email](mailto:)
+* Daniel Musili: [Email](mailto:danielmusili72@gmail.com)
+* Joan Mwangi: [Email](mailto:mjoan1819@gmail.com)
 * Alex Gathuri: [Email](mailto:gathurialex4@gmail.com)
-* Ian Mutai: [Email](mailto:)
+* Ian Mutai: [Email](mailto:ianmutai0@gmail.com)
 * Norah Ekuttan: [Email](mailto:norahnaroh@gmail.com)
 
 
