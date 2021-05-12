@@ -56,7 +56,7 @@ Ian Mutai,
 # Setup instructions
 
 1. Clone the repo:
-    `git clone https://github.com/alexgathuri/salary-analysis-for-developers.git`
+    `git clone https://github.com/alexgathuri/sharkinsuits.git`
 
 1. Switch into the directory
     `cd Final`
